@@ -1,3 +1,6 @@
+# 2018‐11‐01 Initial Research Seminar
+
+
 ### Agenda
 1. Arne und Jascha: Amazon Lex vs Google Assistant/Dialogflow  
 [Download (Pdf)](../pdfs/2018-09-28-Handout-Dialogflow-Lex.pdf)
