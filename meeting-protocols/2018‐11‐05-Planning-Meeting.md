@@ -1,3 +1,6 @@
+# 2018‐11‐05 Planning Meeting
+
+
 ### Accountabilities Assigned
 - **Erik:** Pipeline, Deployment
 - **Leo:** Prozess, Dokumentation
