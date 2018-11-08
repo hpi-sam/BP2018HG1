@@ -13,5 +13,5 @@
 
 
 ### On The Whiteboard
-![](images/2018-11-05-Accountabilities.JPG)
-![](images/2018-11-05-New-Issues.JPG)
+![](../images/2018-11-05-Accountabilities.JPG)
+![](../images/2018-11-05-New-Issues.JPG)
