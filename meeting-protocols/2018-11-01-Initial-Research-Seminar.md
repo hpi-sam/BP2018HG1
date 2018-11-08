@@ -1,4 +1,4 @@
-# 2018‐11‐01 Initial Research Seminar
+# 2018-11-01 Initial Research Seminar
 
 
 ### Agenda
