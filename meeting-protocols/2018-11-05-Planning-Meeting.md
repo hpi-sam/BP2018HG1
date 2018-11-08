@@ -1,4 +1,4 @@
-# 2018‐11‐05 Planning Meeting
+# 2018-11-05 Planning Meeting
 
 
 ### Accountabilities Assigned
