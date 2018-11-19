@@ -12,3 +12,9 @@
 10:00 Review Meeting (30min)  
 11:00 Retro Meeting (60min)  
 13:30 Planning Meeting (90min)  
+
+
+### Pruduct Owner: Arne  
+  #### Co-Product Owner: Erik  
+  
+### SCRUM Master: Jascha  
