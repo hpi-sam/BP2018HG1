@@ -14,7 +14,6 @@
 13:30 Planning Meeting (90min)  
 
 
-### Pruduct Owner: Arne  
-   ##### Co-Product Owner: Erik  
+### Pruduct Owner: Arne (assisted by Erik)
   
 ### SCRUM Master: Jascha  
