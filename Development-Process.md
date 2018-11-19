@@ -9,6 +9,6 @@
 09:15 Standup Meeting  
 
 #### Every 2nd Thursday
-10:00 Review Meeting (30min)
-11:00 Retro Meeting (60min)
-13:30 Planning Meeting (90min)
+10:00 Review Meeting (30min)  
+11:00 Retro Meeting (60min)  
+13:30 Planning Meeting (90min)  
