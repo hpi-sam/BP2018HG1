@@ -22,4 +22,4 @@ See estimations in [Issues](https://github.com/hpi-sam/BP2018HG1/issues)
 * [ Image Upload #1 ](https://github.com/hpi-sam/BP2018HG1/issues/1)
 5. Expand into Tasks
 6. Estimation and Distribution of Tasks:
-![](../images/2018-11-19-planning-meeting.jpg)
+![](../images/2018-11-19-planning-meeting.JPG)
