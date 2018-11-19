@@ -15,6 +15,6 @@
 
 
 ### Pruduct Owner: Arne  
-  #### Co-Product Owner: Erik  
+    ##### Co-Product Owner: Erik  
   
 ### SCRUM Master: Jascha  
