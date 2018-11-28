@@ -9,3 +9,4 @@
 - 2018-11-05 [Planning Meeting](meeting-protocols/2018-11-05-Planning-Meeting.md)
 - 2018-11-15 [Retrospective](meeting-protocols/2018-11-15-Retrospective.md)
 - 2018-11-19 [Review Meeting](meeting-protocols/2018-11-19-Review.md)
+- 2018-11-19 [Planning Meeting](meeting-protocols/2018-11-19-Planning.md)

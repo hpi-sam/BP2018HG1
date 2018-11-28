@@ -2,7 +2,7 @@
 
 1. Presentation of User Stories
 Presented User Stories:
-* [ Search for artifacts by their author in Google Assistant #8 ](https://github.com/hpi-sam/BP2018HG1/issues/8) - Not in this iteration
+ * [ Search for artifacts by their author in Google Assistant #8 ](https://github.com/hpi-sam/BP2018HG1/issues/8) - Not in this iteration
 * [ List Images #3 ](https://github.com/hpi-sam/BP2018HG1/issues/3) - This Sprint
 * [ Google Assistant Image Retrieval #4 ](https://github.com/hpi-sam/BP2018HG1/issues/4) - This Sprint
 * [ Tag Suggestions #5 ](https://github.com/hpi-sam/BP2018HG1/issues/5) *- Team says doesn't meet 'Definition of Ready'*
