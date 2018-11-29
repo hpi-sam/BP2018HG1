@@ -17,6 +17,7 @@
 
 ## Actual Agenda Points
 1. Introduction/What let to this meeting? (see above!)
-2. Explanation of our current process Scrum implementation.
-3. Open Discussion: Check if all the above questions are answered!
-4. Document the results.
+2. Validation of Discussion from earlier today.
+3. Explanation of our current process Scrum implementation.
+4. Open Discussion: Check if all the above questions are answered!
+5. Document the results.
