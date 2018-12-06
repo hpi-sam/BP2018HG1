@@ -17,12 +17,12 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>45</td>
 		<td>5. Nov</td>
 		<td>10. Nov</td>
-		<td rowspan="6">Machine Learning + Data Collection</td>
+		<td rowspan="7">Machine Learning + Data Collection</td>
 		<td rowspan="3">Dialogflow Input . Output</td>
 		<td rowspan="3">Deployment + Pipeline Infrastructure</td>
-		<td rowspan="3">Code Quality</td>
-		<td rowspan="6">Development Process + Documentation</td>
-		<td rowspan="3">Backend Services and Database</td>
+		<td rowspan="4">Code Quality</td>
+		<td rowspan="4">Development Process + Documentation</td>
+		<td rowspan="4">Backend Services and Database</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -38,15 +38,16 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>48</td>
 		<td>26. Nov</td>
 		<td>1. Dec</td>
-		<td rowspan="3">User Story Collection and Quality</td>
-		<td rowspan="3">User Experience</td>
-		<td rowspan="3">API Documentation</td>
-		<td rowspan="3">???</td>
+		<td rowspan="4">User Story Collection and Quality</td>
+		<td rowspan="4">User Experience</td>
 	</tr>
 	<tr>
 		<td>49</td>
 		<td>3. Dec</td>
 		<td>8. Dec</td>
+		<td rowspan="3">Graph Databases</td>
+		<td rowspan="3">Development Process (as Scrum Master)</td>
+		<td rowspan="3">API Documentation</td>
 	</tr>
 	<tr>
 		<td>50</td>
