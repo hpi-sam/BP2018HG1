@@ -13,7 +13,7 @@
 * Add meetings to calendar
   
 1. Retro today:
-* Mood: Adding a picture later
+* Mood: ![](../images/2018-11-29-moodmeter.jpeg)
 * Mad Sad Glad: Adding a picture later
 
 Actiontasks:
