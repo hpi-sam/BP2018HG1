@@ -1,5 +1,5 @@
 ## Overview of our current Process:  
-For more information view our more detailed [process description](process/process.md). 
+For more information view our more detailed [process description](process.md). 
 
 ### SCRUM, 2 Week Sprints
 
