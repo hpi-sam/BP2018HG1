@@ -15,12 +15,12 @@
 
 
 ### Pruduct Owner: Arne (assisted by Erik)
-    - Communication with the Christians
-    - Communictaion with the D-School
-    - Writing User Stories
-    - Setting Priorities
+   - Communication with the Christians
+   - Communictaion with the D-School
+   - Writing User Stories
+   - Setting Priorities
   
 ### SCRUM Master: Leo  
-    - Planning and Organizing/Facilitating Meetings
-    - Documenting Meetings
-    - Process Documentation
+   - Planning and Organizing/Facilitating Meetings
+   - Documenting Meetings
+   - Process Documentation
