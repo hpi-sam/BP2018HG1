@@ -7,7 +7,20 @@
 ...
 - 2018-11-05 [Review Meeting](meeting-protocols/2018-11-05-Review-Meeting.md)
 - 2018-11-05 [Planning Meeting](meeting-protocols/2018-11-05-Planning-Meeting.md)
+...
 - 2018-11-15 [Retrospective](meeting-protocols/2018-11-15-Retrospective.md)
+...
 - 2018-11-19 [Review Meeting](meeting-protocols/2018-11-19-Review.md)
 - 2018-11-19 [Planning Meeting](meeting-protocols/2018-11-19-Planning-Meeting.md)
+...
+- 2018-11-29 [Review Meeting](meeting-protocols/2018-11-29-Review.md)
+- 2018-11-29 [Planning Meeting](meeting-protocols/2018-11-29-Planning.md)
+- 2018-11-29 [Retrospective](meeting-protocols/2018-11-29-Retrospective.md)
+- 2018-11-29 [Process Discussion](meeting-protocols/2018-11-29-Process-Discussion.md)
+
+### December
+
+- 2018-12-11 [Review Meeting](meeting-protocols/2019-12-11-Review.md)
+...
+- 2018-12-17 [Planning Meeting](meeting-protocols/2018-12-17-Planning.md)
 - 2018-12-17 [API Team Routes Meeting](meeting-protocols/2018-12-17-API-Team-Routes-Meeting.md)
