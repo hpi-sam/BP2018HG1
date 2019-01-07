@@ -12,4 +12,5 @@ Welcome to the BP2018HG1 wiki!
 6. [Meeting Protocols](Meeting-Protocols.md)  
     - [September](Meeting-Protocols.md#september)  
     - [November](Meeting-Protocols.md#november)  
-    - [December](Meeting-Protocols.md#december)  
+    - [December](Meeting-Protocols.md#december)
+    - [January](Meeting-Protocols.md#january)
