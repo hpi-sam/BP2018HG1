@@ -24,3 +24,7 @@
 ...
 - 2018-12-17 [Planning Meeting](meeting-protocols/2018-12-17-Planning.md)
 - 2018-12-17 [API Team Routes Meeting](meeting-protocols/2018-12-17-API-Team-Routes-Meeting.md)
+
+### January
+
+- 2019-01-07 [Backlog Grooming](meeting-protocols/2019-01-07-Backlog-Grooming.md)
