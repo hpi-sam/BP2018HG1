@@ -11,6 +11,9 @@ The api should provide following routes:
 - `GET /teams/:id`
   - args: `none`  
   - response: `{ "id": "<uuid>", "name": "My Team" }`
+- `PUT /teams/:id`
+  - args: `{ "name": "New Team Name" }` (and consider following updatable properties)
+  - response: `{ "id": "<uuid>", "name": "New Team Name" }`
 
 
 ## Supporting teams on images routes
