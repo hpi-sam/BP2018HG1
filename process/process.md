@@ -9,7 +9,10 @@ These meetings consist of: "Daily" Standup, Planning, Review and Retrospective. 
 During the daily standup everyone shortly lies out what he or she has done since the last daily. These mandatorily happen twice a week with the full team and on all other days with everyone that is currently there.
 
 ### Planning
-During the planning Meeting the Team decides what stories to complete in the next 2 weeks and splits those into Tasks that are being distributed to all team members. How exactly this process happens is the responsibility of the current scrum master.
+During the planning Meeting the Team decides what stories to complete in the next 2 weeks that are being distributed to all team members. How exactly this process happens is the responsibility of the current scrum master.
+
+## Backlog Grooming 
+During the Backlog Grooming meeting, the team discusses new Userstories, estimates and if necessary carries out slight improvements on them. (We introduced this meeting in order to cut out and optimize the discussion from the planning meetings which were taking considerably too much time due to discussion.)
 
 ### Review
 During the Review Meeting the Team presents what it has done in the last 2 weeks. What stories have been finished? What is the state of the product? How has the velocity been? Are we on track in the grand scheme of things?
