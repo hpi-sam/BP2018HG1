@@ -11,7 +11,7 @@ During the daily standup everyone shortly lies out what he or she has done since
 ### Planning
 During the planning Meeting the Team decides what stories to complete in the next 2 weeks that are being distributed to all team members. How exactly this process happens is the responsibility of the current scrum master.
 
-## Backlog Grooming 
+### Backlog Grooming 
 During the Backlog Grooming meeting, the team discusses new Userstories, estimates and if necessary carries out slight improvements on them. (We introduced this meeting in order to cut out and optimize the discussion from the planning meetings which were taking considerably too much time due to discussion.)
 
 ### Review
