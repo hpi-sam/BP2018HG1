@@ -20,7 +20,7 @@
 
 Action Points:
 
-* Luise möchte sich mal an Elija und Tobito ranmachen
+* Luise to work more on Elija and Tobito
 * Motivation and Teambuilding
 * Get Chris to do a Bachelor Thesis Workshop with us
 * Focus more on cool, exiting, research relevant stuff
