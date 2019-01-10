@@ -8,5 +8,5 @@
 ![](../images/2019-01-10-Planning.jpg)
 (rough priority list, assignment still in progress)  
 
-![](../images/2019-01-10-Kanban.jgb)
+![here goes](../images/2019-01-10-Kanban.jgb)
 (final assignemnt for this Sprint)
