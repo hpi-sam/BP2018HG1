@@ -20,7 +20,7 @@
 
 ### December
 
-- 2018-12-11 [Review Meeting](meeting-protocols/2019-12-11-Review.md)  
+- 2018-12-11 [Review Meeting](meeting-protocols/2018-12-11-Review.md)  
 ...
 - 2018-12-17 [Planning Meeting](meeting-protocols/2018-12-17-Planning.md)
 - 2018-12-17 [API Team Routes Meeting](meeting-protocols/2018-12-17-API-Team-Routes-Meeting.md)
