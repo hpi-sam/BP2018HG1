@@ -15,3 +15,8 @@
 * Testing with DSchool
 * Expand into more research related topics
 
+6. Feedback
+* Risk Management needed
+* Have a closer look at tech stack (not the first time deployment failed)
+* Start planning / adjusting the infrastructure for bachelor thesis
+
