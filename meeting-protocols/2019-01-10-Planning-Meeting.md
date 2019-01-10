@@ -4,4 +4,4 @@
 2. Assigning userstories to Teammembers
 
 ### Results:
-![](../images/2019-01-10-Planning.jgp)
+![](../images/2019-01-10-Planning.jpg)
