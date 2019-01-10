@@ -11,4 +11,4 @@
 4. Setting velocity (Team)
 
 5. What comes next?
-* Make Teams work, expand into more research related topics
+
