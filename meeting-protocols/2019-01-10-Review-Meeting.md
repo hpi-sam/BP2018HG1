@@ -11,7 +11,7 @@
 4. Setting velocity (Team)
 
 5. What comes next?
-* Fix Teams Feature
+* Fix teams feature
 * Testing with DSchool
 * Expand into more research related topics
 
