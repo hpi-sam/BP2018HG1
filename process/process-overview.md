@@ -14,8 +14,8 @@ For more information view our more detailed [process description](process.md).
 
 #### Every 2nd Thursday
 10:00 Review Meeting (30min)  
-11:00 Retro Meeting (30min)  
-13:30 Planning Meeting (30min)  
+11:00 Retro Meeting (20min)  
+13:30 Planning Meeting (20min)  
 
 
 ### Pruduct Owner: Arne (assisted by Erik)
