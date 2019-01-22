@@ -9,12 +9,12 @@ For more information view our more detailed [process description](process.md).
 #### Every Thursday  
 09:15 Standup Meeting  
 
-### Every 2nd Monday
+#### Every 2nd Monday
 15:00 Backlog Grooming (45min)
 
 #### Every 2nd Thursday
 10:00 Review Meeting (30min)  
-11:00 Retro Meeting (60min)  
+11:00 Retro Meeting (30min)  
 13:30 Planning Meeting (20min)  
 
 
