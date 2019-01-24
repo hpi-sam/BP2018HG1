@@ -9,7 +9,7 @@
 |                  | Accepted | Declined | Reason
 |------------------|----------|----------|--------
 | Detail Page #22 #23 #24  |          |         | 
-| refinement Intent #19 |          |         | 
+| Refinement Intent #19 |          |         | 
 | Team Image Retrieval #29 |         |         |
 | Synonyms #32 |         |         |
 | Cypress #35 |          |         |
