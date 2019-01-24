@@ -22,7 +22,7 @@
 | Socket Refactoring |     x     |         |
 
 4. Setting velocity (Team)  
-Included Tickets Velocity: 131
+Included Tickets Velocity: 131  
 Accepted Tickets Velocity: 101
 
 5. What comes next?
