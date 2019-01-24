@@ -13,8 +13,9 @@
 | Team Image Retrieval #29 |         |     x    | Broken
 | Synonyms #32 |    x     |         |   
 | Cypress #35 |     x     |         |
-| Text Recognition #9 |          |         |
-| Multi Upload #40 |          |         |
+| Text Recognition #9 |     x     |         |
+| Multi Upload #40 |     x     |         |
+| Teams #27 |    x      |         |
 | Neo4J + Elasticsearch #33 |          |         |
 | Search by Date #6 |          |         |
 | Team Presentation View #31|          |         |
