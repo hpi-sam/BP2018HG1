@@ -2,6 +2,8 @@
 
 1. Introduction (Leo)
 2. Presentation of Product (Team)
+  *User Testing
+  *Graph Database
 3. Acceptance/Decline of User Stories (by POs)
 
 |                  | Accepted | Declined | Reason
