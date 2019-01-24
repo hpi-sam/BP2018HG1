@@ -8,11 +8,11 @@
 
 |                  | Accepted | Declined | Reason
 |------------------|----------|----------|--------
-| Detail Page #22 #23 #24  |          |     x    | 
-| Refinement Intent #19 |          |         | 
-| Team Image Retrieval #29 |         |         |
-| Synonyms #32 |         |         |
-| Cypress #35 |          |         |
+| Detail Page #22 #23 #24  |          |     x    | Not started
+| Refinement Intent #19 |          |     x    | Not finished
+| Team Image Retrieval #29 |         |     x    | Broken
+| Synonyms #32 |    x     |         |   
+| Cypress #35 |     x     |         |
 | Text Recognition #9 |          |         |
 | Multi Upload #40 |          |         |
 | Neo4J + Elasticsearch #33 |          |         |
