@@ -16,13 +16,13 @@
 | Text Recognition #9 |     x     |         |
 | Multi Upload #40 |     x     |         |
 | Teams #27 |    x      |         |
-| Neo4J + Elasticsearch #33 |          |         |
-| Search by Date #6 |          |         |
-| Team Presentation View #31|          |         |
-| Socket Refactoring |          |         |
+| Neo4J + Elasticsearch #33 |    x      |         |
+| Search by Date #6 |     x     |         |
+| Team Presentation View #31|          |    x     |
+| Socket Refactoring |     x     |         |
 
 4. Setting velocity (Team)  
 Included Tickets Velocity: 131
-Accepted Tickets Velocity:
+Accepted Tickets Velocity: 101
 
 5. What comes next?
