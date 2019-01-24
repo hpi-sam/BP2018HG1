@@ -8,7 +8,7 @@
 
 |                  | Accepted | Declined | Reason
 |------------------|----------|----------|--------
-| Detail Page #22 #23 #24  |          |         | 
+| Detail Page #22 #23 #24  |          |     x    | 
 | Refinement Intent #19 |          |         | 
 | Team Image Retrieval #29 |         |         |
 | Synonyms #32 |         |         |
