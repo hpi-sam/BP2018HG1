@@ -18,6 +18,8 @@
 | Team Presentation View #31|          |         |
 | Socket Refactoring |          |         |
 
-4. Setting velocity (Team)
+4. Setting velocity (Team)  
+Included Tickets Velocity: 131
+Accepted Tickets Velocity:
 
 5. What comes next?
