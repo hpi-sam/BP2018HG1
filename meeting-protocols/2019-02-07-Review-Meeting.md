@@ -11,7 +11,7 @@
 | Team Image Retrieval #29 |         |    x     | 
 | Synonyms #32 |     x    |         |   
 | Team Presentation View #31|          |    x     |
-| Mobile Search Bar #37 | x |
+| Mobile Search Bar #37 |  | x |
 
 
 4. Setting velocity (Team)  
