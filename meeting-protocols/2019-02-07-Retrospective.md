@@ -22,7 +22,7 @@ Tech/Task related Action Points:
 ![](../images/2019-02-07-Mutmeter.jpg)
 
 
-3. Stop Start Continue (25min)
+3. I wish I like (25min)
 ![](../images/2019-02-07-I-Wish-I-Like.jpg)
 
 Action Points:
