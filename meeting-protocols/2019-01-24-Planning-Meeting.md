@@ -7,4 +7,4 @@
 
 ![](../images/2019-01-24-Planning-1.jpg)
 ![](../images/2019-01-24-Planning-2.jpg)
-(final assignemnt for this Sprint, not everyone has their own cirlce, but everyone had userstories)
+(final assignemnt for this Sprint, not everyone has their own cirlce, but everyone has userstories)
