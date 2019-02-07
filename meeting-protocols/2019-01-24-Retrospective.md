@@ -13,7 +13,7 @@
 
   * Reduce relevance of Elasticsearch
   * Cypress testing -> done
-  * Dschool testing -> in progress
+  * Dschool testing -> in progress  
 
 
 2. Mutmeter (5min)
