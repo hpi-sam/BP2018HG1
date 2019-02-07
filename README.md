@@ -9,6 +9,7 @@ Welcome to the BP2018HG1 wiki!
 3. [Review Guide](contribution/reviews.md)
 4. [Codestyle](contribution/linting.md)  
 5. [Blog](contribution/blog.md)
+5. [Expenses](contribution/expenses.md)
 6. [Bachelor Thesis](thesis/thesis.md) 
     - [Ideas](thesis/ideas.md)  
 7. [Development Process](process/process-overview.md)
