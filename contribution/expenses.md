@@ -12,7 +12,7 @@ Afterwards, please take the amount from the project cash register.
 
 #### Drinks
 
-Everyone pays for the amount of drinks he comsumed.
+Everyone pays for the amount of drinks he consumed.
 
 At then end of the month we will count the consumption of drinks per person and calculate the cost. 
 Please pay your owed amount by the end of the month.
