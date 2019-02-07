@@ -24,3 +24,4 @@ Accepted Tickets Velocity:
   - evap evalutaion
   - mid term presentation
   - project name for the bachelorpodium
+  - risk management needs to be accounted for
