@@ -1,6 +1,7 @@
 # Protocol
 
 1. Points from last meeting:
+
   * Luise to work more on Elija and Tobito -> done for elija
   * Motivation and Teambuilding -> lasertag, yay
   * Get Chris to do a Bachelor Thesis Workshop with us
