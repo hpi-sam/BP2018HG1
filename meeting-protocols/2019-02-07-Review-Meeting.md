@@ -19,6 +19,9 @@ Included Tickets Velocity:
 Accepted Tickets Velocity: 
 
 5. What comes next?
+  - exams
+  - dschool testing
+  - apart from that, similar direction as last time
 
 6. Things to be aware of:
   - evap evalutaion
