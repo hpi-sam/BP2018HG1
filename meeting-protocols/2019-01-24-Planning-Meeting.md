@@ -6,5 +6,5 @@
 ### Results:  
 
 ![](../images/2019-01-24-Planning-1.jpg)
-![](../images/2019-01-24-Planing-2.jpg)
+![](../images/2019-01-24-Planning-2.jpg)
 (final assignemnt for this Sprint)
