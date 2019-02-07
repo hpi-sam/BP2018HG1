@@ -36,3 +36,7 @@
 - 2019-01-24 [Review Meeting](meeting-protocols/2019-01-24-Review-Meeting.md)
 - 2019-01-24 [Retrospective](meeting-protocols/2019-01-24-Retrospective.md)
 - 2019-01-24 [Planning Meeting](meeting-protocols/2019-01-24-Planning-Meeting.md)  
+
+### February
+
+- 2019-02-07 [Planning Meeting](meeting-protocols/2019-02-07-Planning-Review-Meeting.md) 
