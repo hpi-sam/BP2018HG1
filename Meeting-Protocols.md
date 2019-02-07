@@ -34,3 +34,5 @@
 ...
 - 2019-01-21 [Backlog Grooming](meeting-protocols/2019-01-21-Backlog-Grooming.md)
 - 2019-01-24 [Review Meeting](meeting-protocols/2019-01-24-Review-Meeting.md)
+- 2019-01-24 [Retrospective](meeting-protocols/2019-01-24-Retrospective.md)
+- 2019-01-24 [Planning Meeting](meeting-protocols/2019-01-24-Planning-Meeting.md)  
