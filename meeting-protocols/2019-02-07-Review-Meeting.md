@@ -15,7 +15,12 @@
 
 
 4. Setting velocity (Team)  
-Included Tickets Velocity: 
+Included Tickets Velocity:  
 Accepted Tickets Velocity: 
 
 5. What comes next?
+
+6. Things to be aware of:
+  - evap evalutaion
+  - mid term presentation
+  - project name for the bachelorpodium
