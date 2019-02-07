@@ -1,18 +1,18 @@
 # Protocol
 
 1. Points from last meeting:
-* Luise to work more on Elija and Tobito -> done for elija
-* Motivation and Teambuilding -> lasertag, yay
-* Get Chris to do a Bachelor Thesis Workshop with us
-* Focus more on cool, exiting, research relevant stuff
-* Talk more about priorities in order to make them clear
-* Communicate more in critical situations
-* Get rid of interpersonal dependencies in tasks -> done by assigning userstpries as a whole
-* work more / more office time -> done, better sprint results
+  * Luise to work more on Elija and Tobito -> done for elija
+  * Motivation and Teambuilding -> lasertag, yay
+  * Get Chris to do a Bachelor Thesis Workshop with us
+  * Focus more on cool, exiting, research relevant stuff
+  * Talk more about priorities in order to make them clear
+  * Communicate more in critical situations
+  * Get rid of interpersonal dependencies in tasks -> done by assigning userstpries as a whole
+  * work more / more office time -> done, better sprint results
 
-* Reduce relevance of Elasticsearch
-* Cypress testing -> done
-* Dschool testing -> in progress
+  * Reduce relevance of Elasticsearch
+  * Cypress testing -> done
+  * Dschool testing -> in progress
 
 
 2. Mutmeter (5min)
