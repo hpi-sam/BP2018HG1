@@ -39,4 +39,7 @@
 
 ### February
 
+- 2019-01-07 Backlog Grooming: skipped, because enough estimated userstories left
 - 2019-02-07 [Review Meeting](meeting-protocols/2019-02-07-Review-Meeting.md) 
+- 2019-02-07 [Retrospective](meeting-protocols/2019-02-07-Retrospective.md)
+- 2019-02-07 [Planning Meeting](meeting-protocols/2019-02-07-Planning-Meeting.md)
