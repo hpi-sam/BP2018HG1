@@ -15,16 +15,16 @@
 
 
 4. Setting velocity (Team)  
-  - Included Tickets Velocity:  
-  - Accepted Tickets Velocity: 
+    - Included Tickets Velocity:  
+    - Accepted Tickets Velocity: 
 
 5. What comes next?
-  - exams
-  - dschool testing
-  - apart from that, similar direction as last time
+    - exams
+    - dschool testing
+    - apart from that, similar direction as last time
 
 6. Things to be aware of:
-  - evap evalutaion
-  - mid term presentation
-  - project name for the bachelorpodium
-  - risk management needs to be accounted for
+    - evap evalutaion
+    - mid term presentation
+    - project name for the bachelorpodium
+    - risk management needs to be accounted for
