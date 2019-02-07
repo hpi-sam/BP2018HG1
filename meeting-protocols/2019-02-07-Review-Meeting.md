@@ -6,17 +6,17 @@
 
 |                  | Accepted | Declined | Reason
 |------------------|----------|----------|--------
-| Detail Page #22 #23 #24  |          |         | 
-| Refinement Intent #19 |          |         |
-| Team Image Retrieval #29 |         |         | 
-| Synonyms #32 |         |         |   
-| Team Presentation View #31|          |         |
-| Mobile Search Bar #37 ||
+| Detail Page #22 #23 #24  |          |    x     | 
+| Refinement Intent #19 |          |    x     |
+| Team Image Retrieval #29 |         |    x     | 
+| Synonyms #32 |     x    |         |   
+| Team Presentation View #31|          |    x     |
+| Mobile Search Bar #37 | x |
 
 
 4. Setting velocity (Team)  
-Included Tickets Velocity:  
-Accepted Tickets Velocity: 
+  - Included Tickets Velocity:  
+  - Accepted Tickets Velocity: 
 
 5. What comes next?
   - exams
