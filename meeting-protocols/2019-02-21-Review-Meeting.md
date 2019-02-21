@@ -13,8 +13,8 @@
 | Refactoring Neomodel #48|x||                            |8       |
 | Backup User Images #41||x|                              |8       |
 | Different Artefact Types #14||x|                        |13       |
-| User Accounts #25|||                                   |21       |
-| Upgrade ML Tags #43|||                                 |8       |
+| User Accounts #25||x|                                   |21       |
+| Upgrade ML Tags #43||x|                                 |8       |
 
 4. Setting velocity (Team)  
     - Included Tickets Velocity:  81
