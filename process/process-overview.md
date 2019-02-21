@@ -35,14 +35,20 @@ For more information view our more detailed [process description](process.md).
   - Done (/)
   
  ### "Scrum Master" Duties: Leo
- ### "PO" Duties (Userstory Reviews): Arne & Jascha
+  - Meeting moderation and Process Documentation
+ ### "PO" Duties: Arne & Jascha
+  - Userstory Reviews, Userstory Review -> Ready
  
  ### Non-Tech Stories for C&C
   - are added to the top of ToDo immidiately  
     (other stories go back to Backlog if necessary)
     
 ### Meetings:
-  #### Review Meeting: everything new in Done
-  #### Retro Meeting: stays the same
-  #### Planning Meeting: does not exist anymore
-  #### Backlog Grooming: Estimation & Prioritization (Ready -> Prioritized Backlog)
+  #### Review Meeting: 
+    everything new in Done
+  #### Retro Meeting: 
+    stays the same
+  #### Planning Meeting: 
+    does not exist anymore
+  #### Backlog Grooming: 
+    Estimation & Prioritization (Ready -> Prioritized Backlog)
