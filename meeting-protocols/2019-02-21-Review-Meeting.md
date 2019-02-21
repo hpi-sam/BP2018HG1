@@ -23,13 +23,11 @@
 5. What else did we do?
     - Dschool testing
     - Risk Management
+    - Evap
 
 6. What comes next?
     - dschool testing
     - fulltime
+    - Evaluation by tutors?
 
 7. Things to be aware of:
-    - evap evalutaion
-    - mid term presentation
-    - project name for the bachelorpodium
-    - risk management needs to be accounted for
