@@ -42,7 +42,7 @@
 - 2019-02-04 [Backlog Grooming](meeting-protocols/2019-02-04-Backlog-Grooming.md)
 - 2019-02-07 [Review Meeting](meeting-protocols/2019-02-07-Review-Meeting.md) 
 - 2019-02-07 [Retrospective](meeting-protocols/2019-02-07-Retrospective.md)
-- 2019-02-07 [Planning Meeting](meeting-protocols/2019-02-07-Planning-Meeting.md)
+- 2019-02-07 [Planning Meeting](meeting-protocols/2019-02-07-Planning-Meeting.md)  
 ...  
 - 2019-02-07 [Review Meeting](meeting-protocols/2019-02-21-Review-Meeting.md) 
 - 2019-02-07 [Retrospective](meeting-protocols/2019-02-21-Retrospective.md)
