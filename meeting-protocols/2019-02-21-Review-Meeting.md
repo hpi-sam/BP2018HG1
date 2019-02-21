@@ -28,14 +28,22 @@
 6. What comes next?
     - dschool testing
     - fulltime
-    - Evaluation by tutors?
+    - Kanban
+    - Finding a shared vision for the product
+    - Evaluation by tutors? => **YES**
 
 7. Things to be aware of:
     - risk management (in addition to midterm presentation maybe?)
     - midterm presentation!
         - test run!
-    - bachelor thesis/vision: academic value (but still try to add value to product)
-    - ways to continue project: usable product
-    - document absences (google calender)
+    - finding a project vision
+        - Team has freedom to decide alone
+        - Discussion with supervisors
+    - bachelor thesis vs vision: focus on academic value (but if possible still add value to product)
+        - now: Discuss rought ideas with Christian²
+        - mid March: Academic writing workshop. Write thesis poposal as exercise.
+        - end of March: Final decision on bachelor theis topics
+    - ways to continue project if product is usable (future bachelor project, HiWi position)
+    - document absences and appointments (google calender = single source of truth, unless decided otherwise)
     - project expenses can be covered by the chair
     - ask for advice
