@@ -1,4 +1,4 @@
-## Overview of our current Process:  
+# Overview of our current Process:  
 For more information view our more detailed [process description](process.md). 
 
 ### SCRUM, 2 Week Sprints
@@ -21,3 +21,28 @@ For more information view our more detailed [process description](process.md).
 ### Pruduct Owner: Arne (assisted by Erik)
   
 ### SCRUM Master: Leo  
+
+# Process Update: Kanban
+
+### Kanban Board columns (and limits):
+  - Ideas (/)
+  - Userstory Review (2)
+  - Ready (/)
+  - Prioritized Backlog (/)
+  - ToDo (2)
+  - Progress (4)
+  - Review (2)
+  - Done (/)
+  
+ ### "Scrum Master" Duties: Leo
+ ### "PO" Duties (Userstory Reviews): Arne & Jascha
+ 
+ ### Non-Tech Stories for C&C
+  - are added to the top of ToDo immidiately  
+    (other stories go back to Backlog if necessary)
+    
+### Meetings:
+  #### Review Meeting: everything new in Done
+  #### Retro Meeting: stays the same
+  #### Planning Meeting: does not exist anymore
+  #### Backlog Grooming: Estimation & Prioritization (Ready -> Prioritized Backlog)
