@@ -4,28 +4,31 @@
 2. Presentation of Product (Team)
 3. Acceptance/Decline of User Stories (by POs)
 
-|                  | Accepted | Declined | Reason
-|------------------|----------|----------|--------
-| Detail Page #22 #23 #24  |          |    x     | 
-| Team Image Retrieval #29 |         |    x     | 
-| Team Presentation View #31|          |    x     |
-| Smaller Images #21 |||
-| Refactoring Neomodel #48|||
-| Backup User Images #41|||
-| Different Artefact Types #14|||
-| User Accounts #25|||
-| Upgrade ML Tags #43|||
+|                  | Accepted | Declined | Reason | Estimation
+|------------------|----------|----------|--------|------------
+| Detail Page #22 #23 #24  |          |         |        7       |
+| Team Image Retrieval #29 |         |         |         5       |
+| Team Presentation View #31|          |         |       8       |
+| Smaller Images #21 |||                                 3       |
+| Refactoring Neomodel #48|||                            8       |
+| Backup User Images #41|||                              8       |
+| Different Artefact Types #14|||                        13       |
+| User Accounts #25|||                                   21       |
+| Upgrade ML Tags #43|||                                 8       |
 
 4. Setting velocity (Team)  
-    - Included Tickets Velocity:  
-    - Accepted Tickets Velocity: 
+    - Included Tickets Velocity:  81
+    - Accepted Tickets Velocity:
+    
+5. What else did we do?
+    - Dschool testing
+    - Risk Management
 
-5. What comes next?
-    - exams
+6. What comes next?
     - dschool testing
-    - apart from that, similar direction as last time
+    - fulltime
 
-6. Things to be aware of:
+7. Things to be aware of:
     - evap evalutaion
     - mid term presentation
     - project name for the bachelorpodium
