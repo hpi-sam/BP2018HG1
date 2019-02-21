@@ -27,4 +27,12 @@ Action Points:
 * motivation, get other stuff out of the way
 * mate bestellen + abrechnung
 * keep the office tidy
+* document changes in PRs
+* BT topics
+* vision meeting
+* be more accountable c&c
+* kanban no more planning
+* architecture
+* finish US's early
+* maybe enforce pair programming
 
