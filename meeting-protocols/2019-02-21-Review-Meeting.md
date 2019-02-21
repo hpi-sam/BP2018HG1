@@ -6,7 +6,7 @@
 
 |                  | Accepted | Declined | Reason | Estimation
 |------------------|----------|----------|--------|------------
-| Detail Page #22 #23 #24  |          |         |        |7       |
+| Detail Page #22 #23 #24  |     x     |         |        |7       |
 | Team Image Retrieval #29 |         |         |         |5       |
 | Team Presentation View #31|          |         |       |8       |
 | Smaller Images #21 |||                                 |3       |
