@@ -31,3 +31,11 @@
     - Evaluation by tutors?
 
 7. Things to be aware of:
+    - risk management (in addition to midterm presentation maybe?)
+    - midterm presentation!
+        - test run!
+    - bachelor thesis/vision: academic value (but still try to add value to product)
+    - ways to continue project: usable product
+    - document absences (google calender)
+    - project expenses can be covered by the chair
+    - ask for advice
