@@ -5,7 +5,7 @@ finished last sprint and we will still be having exams during the next sprint:
 
 1. Everyone gives a rough estimate on how much time they still need (5min)
 
-    - Leo: #29 #38 #42
+    - Leo: #29
     - Erik: #21
     - Jascha: #48 #25
     - Luise: #41 #14
