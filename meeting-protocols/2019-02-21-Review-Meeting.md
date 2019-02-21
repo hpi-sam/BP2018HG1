@@ -18,7 +18,7 @@
 
 4. Setting velocity (Team)  
     - Included Tickets Velocity:  81
-    - Accepted Tickets Velocity:
+    - Accepted Tickets Velocity:  23  
     
 5. What else did we do?
     - Dschool testing
