@@ -43,7 +43,7 @@
 - 2019-02-07 [Review Meeting](meeting-protocols/2019-02-07-Review-Meeting.md) 
 - 2019-02-07 [Retrospective](meeting-protocols/2019-02-07-Retrospective.md)
 - 2019-02-07 [Planning Meeting](meeting-protocols/2019-02-07-Planning-Meeting.md)  
-- 2019-02-07 [Unpacking Dschool Feedback](meeting-protocols/2019-02-08-Unpacking-Dschool-Feedback.jpg)  
+- 2019-02-08 [Unpacking Dschool Feedback](images/2019-02-08-Unpacking-Dschool-Feedback.jpg)  
 ...  
 - 2019-02-07 [Review Meeting](meeting-protocols/2019-02-21-Review-Meeting.md) 
 - 2019-02-07 [Retrospective](meeting-protocols/2019-02-21-Retrospective.md)
