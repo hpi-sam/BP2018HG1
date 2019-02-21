@@ -45,10 +45,10 @@ For more information view our more detailed [process description](process.md).
     
 ### Meetings:
   #### Review Meeting: 
-    - everything new in Done
+   - everything new in Done
   #### Retro Meeting: 
-    - stays the same
+   - stays the same
   #### Planning Meeting: 
-    - does not exist anymore
+   - does not exist anymore
   #### Backlog Grooming: 
-    - Estimation & Prioritization (Ready -> Prioritized Backlog)
+   - Estimation & Prioritization (Ready -> Prioritized Backlog)
