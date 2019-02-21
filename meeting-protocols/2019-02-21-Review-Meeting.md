@@ -47,3 +47,6 @@
     - document absences and appointments (google calender = single source of truth, unless decided otherwise)
     - project expenses can be covered by the chair
     - ask for advice
+    - podium and theses desdlines in late June.
+      - Project handover (high quality code, complete product) and internal final presentation in July.
+      - Exact deadline up for negotaiation if necessary.
