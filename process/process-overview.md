@@ -45,10 +45,10 @@ For more information view our more detailed [process description](process.md).
     
 ### Meetings:
   #### Review Meeting: 
-   - everything new in Done
+   - present everything that is new in Done
   #### Retro Meeting: 
    - stays the same
   #### Planning Meeting: 
-   - does not exist anymore
+   - does not exist anymore (not needed in kanban)
   #### Backlog Grooming: 
    - Estimation & Prioritization (Ready -> Prioritized Backlog)
