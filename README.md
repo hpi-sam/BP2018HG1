@@ -12,6 +12,7 @@ Welcome to the BP2018HG1 wiki!
 - [ZenHub Board](https://app.zenhub.com/workspaces/christian-ity-5c6c00094c2d6a432f785fcf/)
 - [Definition of Done](dod.md)
 
+- [Accountabilities](Accountabilities.md)
 - [Risk Management](risk_management/index.md)
 
 - [Blog](contribution/blog.md)
@@ -19,6 +20,7 @@ Welcome to the BP2018HG1 wiki!
 - [Expenses](contribution/expenses.md)
 
 - [Bachelor Thesis](thesis/thesis.md) 
+  - [Process](thesis/thesis-process.md)
   - [Ideas](thesis/ideas.md)  
 
 - [Meeting Protocols](Meeting-Protocols.md)  
