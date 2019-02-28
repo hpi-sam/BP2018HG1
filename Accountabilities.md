@@ -82,28 +82,28 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td rowspan="2">API Documentation</td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>3</td>
 		<td>14. Jan</td>
 		<td>18. Jan</td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>4</td>
 		<td>21. Jan</td>
 		<td>25. Jan</td>
 		<td rowspan="3">Risk Management</td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>5</td>
 		<td>28. Jan</td>
 		<td>1. Feb</td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>6</td>
 		<td>4. Feb</td>
 		<td>8. Feb</td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>7</td>
 		<td>11. Feb</td>
 		<td>15. Feb</td>
 		<td></td>
@@ -114,9 +114,20 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td></td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>8</td>
 		<td>18. Feb</td>
 		<td>22. Feb</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>25. Feb</td>
+		<td>1. Mar</td>
 		<td></td>
 		<td></td>
 		<td></td>
