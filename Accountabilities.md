@@ -90,7 +90,7 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>4</td>
 		<td>21. Jan</td>
 		<td>25. Jan</td>
-		<td rowspan="3">Risk Management</td>
+		<td rowspan="5">Risk Management</td>
 	</tr>
 	<tr>
 		<td>5</td>
