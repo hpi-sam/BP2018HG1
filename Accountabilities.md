@@ -128,11 +128,11 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>9</td>
 		<td>25. Feb</td>
 		<td>1. Mar</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>Risk Management</td>
+		<td>User Story Collection and Quality</td>
+		<td>User Testing</td>
+		<td>LaTeX Master</td>
+		<td>Development Process, Documentation (+ Non-technical Tasks and Punctuality)</td>
+		<td>PR Management</td>
 	</tr>
 </table>
