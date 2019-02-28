@@ -1,7 +1,7 @@
 ## Risk Management
 
 
-### [Legend](_legend.md)
+### [Legend](_legend.pdf)
 
 ### General Risk Assessments
 
