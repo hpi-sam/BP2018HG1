@@ -1,13 +1,14 @@
 # Bachelor Thesis Process
 
-### Mid March: Idea
+### Mid March: 
+#### Idea
 - have an idea for your bachelor thesis ready
 - have it approved/blessed by the Christians
 - main got-to person for that is Chris
   - Christian only via email (1.3.-18.3.) and Prof. Giese if you can get hold of him
 - take the initiative
 
-### Mid March: Workshop on Scientific writing
+#### Workshop on Scientific writing
 - probably also mid march, see Desicna
 
 ### Inbetween: Write Exposé
