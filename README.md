@@ -10,8 +10,8 @@ Welcome to the BP2018HG1 wiki!
 - [Codestyle](contribution/linting.md)  
 - [Development Process](process/process-overview.md)
 - [ZenHub Board](https://app.zenhub.com/workspaces/christian-ity-5c6c00094c2d6a432f785fcf/)
-- [Definition of Done](dod.md)
-
+- [Definition of Done](dod.md)  
+  
 - [Accountabilities](Accountabilities.md)
 - [Risk Management](risk_management/index.md)
 
