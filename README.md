@@ -12,6 +12,10 @@ Welcome to the BP2018HG1 wiki!
   - [Definition of Done](dod.md)  
   - [Blog](contribution/blog.md)
   
+### Bachelor Thesis
+  - [Process](thesis/thesis-process.md)
+  - [Ideas](thesis/ideas.md)
+  
 ### Process Management
   - [Development Process](process/process-overview.md)
   - [Accountabilities](Accountabilities.md)
@@ -24,8 +28,3 @@ Welcome to the BP2018HG1 wiki!
     - [December](Meeting-Protocols.md#december)
     - [January](Meeting-Protocols.md#january)
     - [February](Meeting-Protocols.md#february)
-
-### Bachelor Thesis
-  - [Bachelor Thesis](thesis/thesis.md) 
-  - [Process](thesis/thesis-process.md)
-  - [Ideas](thesis/ideas.md)
