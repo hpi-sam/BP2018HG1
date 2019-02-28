@@ -75,7 +75,7 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>7. Jan</td>
 		<td>11. Jan</td>
 		<td rowspan="5">Machine Learning + Data Collection</td>
-		<td rowspan="5">User Story Collection and Quality</td>
+		<td rowspan="8">User Story Collection and Quality</td>
 		<td rowspan="5">User Experience</td>
 		<td rowspan="5">Graph Databases</td>
 		<td rowspan="5">Development Process (as Scrum Master)</td>
