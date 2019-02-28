@@ -12,7 +12,7 @@ Welcome to the BP2018HG1 wiki!
 - [ZenHub Board](https://app.zenhub.com/workspaces/christian-ity-5c6c00094c2d6a432f785fcf/)
 - [Definition of Done](dod.md)
 
-- [Risk Management](contribution/risk_management.md)
+- [Risk Management](risk_management/index.md)
 
 - [Blog](contribution/blog.md)
 
