@@ -6,9 +6,9 @@
 
 |                  | Accepted | Declined | Reason | Estimation
 |------------------|----------|----------|--------|------------
-| User Accounts #25  |          |         |        |21       |
-| Upgrade ML Tags #43 |         |         |         |8       |
-| Delete Image #38|          |         |       |8       |
+| User Accounts #25  |   x       |         |        |21       |
+| Upgrade ML Tags #43 |         |     x    |    only backend part done     |8       |
+| Delete Image #38|     x     |         |       |8       |
     
 5. What else did we do?
     - New Accountabilities, see Documentation
