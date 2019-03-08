@@ -12,5 +12,6 @@
 5. Drastically increase velocity for the next sprint in order to test limits
 
 ## Results
-![](../images/2019-01-07-Affinity-Estimation-1.JPG)
-![](../images/2019-01-07-Affinity-Estimation-2.JPG)
+![](../images/2019-03-08-Affinity-Estimation-1.JPG)
+![](../images/2019-03-08-Affinity-Estimation-2.JPG)
+![](../images/2019-03-08-Affinity-Estimation-3.JPG)
