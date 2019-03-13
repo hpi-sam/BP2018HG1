@@ -52,7 +52,7 @@
 ### March
 
 - 2019-03-06 [Review Meeting](meeting-protocols/2019-03-06-Review-Meeting.md) 
-- 2019-03-06 [Retrospective](meeting-protocols/2019-03-06-Retrospective.md)
+- 2019-03-06 [Retrospective](meeting-protocols/2019-03-06-Retrospective.md)  
 ..  
 - 2019-03-13 [Review Meeting](meeting-protocols/2019-03-13-Review-Meeting.md)
 
