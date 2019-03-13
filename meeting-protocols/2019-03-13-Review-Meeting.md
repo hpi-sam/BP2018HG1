@@ -16,6 +16,7 @@
 | Data Privacy Policy #61  |    x     |         |        |   3   |
 | Move Searchbar on mobile #42  |    x     |         |        |   2   |
 | Gallery Bug #50  |    x     |         |        |   2   |
+| Refactor Suggested Tags #60  |    x     |         |        |   2   |
     
 5. What else did we do?
     - Tech support for usertesting
