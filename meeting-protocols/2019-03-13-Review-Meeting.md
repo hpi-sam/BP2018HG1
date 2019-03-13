@@ -20,6 +20,7 @@
     
 5. What else did we do?
     - Tech support for usertesting
+    - Deployment on DigitalOcean
 
 6. What comes next?
     - Evaluate usertesting, maybe feedback session
