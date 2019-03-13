@@ -8,6 +8,10 @@
 |------------------|----------|----------|--------|------------
 | Usertesting Preparation #66  |          |         |        |21       |
 | Signature Expired Error #75 |         |         |        |2       |
+| Fix Search #67 |         |         |        |       |
+| Redesign Tagging #70 |         |         |        |      |
+| Refactoring #79 #81 |         |         |        |       |
+| Fix e2e tests #57 #69 |         |         |        |      |
     
 5. What else did we do?
     - Tech support for usertesting
