@@ -6,13 +6,16 @@
 
 |                  | Accepted | Declined | Reason | Estimation
 |------------------|----------|----------|--------|------------
-| Usertesting Preparation #66  |          |         |        |21       |
-| Signature Expired Error #75 |         |         |        |2       |
-| Fix Search #67 |         |         |        |   5    |
-| Redesign Tagging #70 |         |         |        |   8   |
-| Refactoring #79 |         |         |        |    13   |
-| Fix e2e tests #69 |         |         |        |    2  |
-| Upgrade ML Tags #43 |         |         |        |   8   |
+| Usertesting Preparation #66  |  x        |         |        |21       |
+| Signature Expired Error #75 |  x       |         |        |2       |
+| Fix Search #67 |  x       |         |        |   5    |
+| Redesign Tagging #70 |   x      |         |        |   8   |
+| Refactoring Elastic Sync #62 |  x       |         |        |    13   |
+| Fix e2e tests #69 |   x      |         |        |    2  |
+| Upgrade ML Tags #43 |    x     |         |        |   8   |
+| Data Privacy Policy #61  |    x     |         |        |   3   |
+| Move Searchbar on mobile #42  |    x     |         |        |   2   |
+| Gallery Bug #50  |    x     |         |        |   2   |
     
 5. What else did we do?
     - Tech support for usertesting
