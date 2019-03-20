@@ -17,4 +17,5 @@
     - Evaluate usertesting, maybe feedback session
     - Thesis workshop
     - Group Photo
+    - Thesis Exposé
 
