@@ -6,16 +6,14 @@
 
 |                  | Accepted | Declined | Reason | Estimation
 |------------------|----------|----------|--------|------------
-| Profile Edit Page #64  |     x     |         |        |3       |
-| Remove Flask Restful (api #27) |    x     |         |        | 13       |
-| Setup Staging Area #59 |     x    |         |        |   21    |
+| Smaller Images #21 |    x     |         |        | 13       |
+| Setup deployment (and staging) with docker-compose replicas and load balancers #72 |     x    |         |        |   21    |
     
 5. What else did we do?
-    - PR Meeting
+    - Write Exposé
 
 6. What comes next?
-    - Evaluate usertesting, maybe feedback session
-    - Thesis workshop
+    - Try to retrieve our feedback
     - Group Photo
-    - Thesis Exposé
+    - Get training data
 
