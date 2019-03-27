@@ -6,8 +6,8 @@
 
 |                  | Accepted | Declined | Reason | Estimation
 |------------------|----------|----------|--------|------------
-| Smaller Images #21 |    x     |         |        | 13       |
-| Setup deployment (and staging) with docker-compose replicas and load balancers #72 |     x    |         |        |   21    |
+| Smaller Images #21 |    x     |         |        | 3       |
+| Setup deployment (and staging) with docker-compose replicas and load balancers #72 |     x    |         |        |       |
     
 5. What else did we do?
     - Write Exposé
