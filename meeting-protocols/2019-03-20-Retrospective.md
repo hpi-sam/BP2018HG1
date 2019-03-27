@@ -27,3 +27,7 @@ Action Points:
 * clear architecture for voice assistant communication with elija  
 * maybe enforce pair programming (postponed)  
 * data for ML  
+* try new retro formats
+* follow kanban more strictly (enforce limits, keep columns updated)
+* retrieve dschool feedback
+* add more memes to our memeboard
