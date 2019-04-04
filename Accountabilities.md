@@ -75,8 +75,8 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>7. Jan</td>
 		<td>11. Jan</td>
 		<td rowspan="7">Machine Learning + Data Collection</td>
-		<td rowspan="8">User Story Collection and Quality</td>
-		<td rowspan="8">User Experience</td>
+		<td rowspan="7">User Story Collection and Quality</td>
+		<td rowspan="7">User Experience</td>
 		<td rowspan="7">Graph Databases</td>
 		<td rowspan="7">Development Process (as Scrum Master)</td>
 		<td rowspan="2">API Documentation</td>
@@ -116,9 +116,82 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>9</td>
 		<td>25. Feb</td>
 		<td>1. Mar</td>
-		<td>Risk Management</td>
-		<td>LaTeX Master</td>
-		<td>Development Process, Documentation (+ Non-technical Tasks and Punctuality)</td>
-		<td>PR Management</td>
+		<td rowspan="7">Risk Management + Internal Evaluation (Lessons Learned)</td>
+		<td rowspan="7">LaTeX Master</td>
+		<td rowspan="7">Product Owner</td>
+		<td rowspan="7">User Experience + D-School User Testing</td>
+		<td rowspan="7">Development Process + Documentation (+ Non-technical Tasks and Punctuality)</td>
+		<td rowspan="7">PR Management</td>
 	</tr>
+	<tr>
+		<td>10</td>
+		<td>18. Feb</td>
+		<td>22. Feb</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>4. Mrz.</td>
+		<td>8. Mrz.</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>11. Mrz.</td>
+		<td>15. Mrz.</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>18. Mrz.</td>
+		<td>22. Mrz.</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>25. Mrz.</td>
+		<td>29. Mrz.</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>1. Apr.</td>
+		<td>5. Apr.</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>8. Apr.</td>
+		<td>12. Apr.</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>15. Apr.</td>
+		<td>19. Apr.</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>22. Apr.</td>
+		<td>26. Apr.</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>29. Apr.</td>
+		<td>3. Mai.</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>6. Mai.</td>
+		<td>10. Mai.</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>13. Mai.</td>
+		<td>17. Mai.</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>20. Mai.</td>
+		<td>24. Mai.</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>27. Mai.</td>
+		<td>31. Mai.</td>
+	</tr>
+
 </table>
