@@ -12,7 +12,7 @@
 
 
 
-2. Wall of Coolness (5min)
+2. Wall of Coolness (15min)
 ![](../images/2019-04-10-Wall-Of-Coolness.jpg)
 
 Action Points:
