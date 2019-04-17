@@ -7,7 +7,7 @@
 |                  | Accepted | Declined | Reason | Estimation
 |------------------|----------|----------|--------|------------
 | Invite Links |    x     |         |        |        |
-| Frontend Redisign |    x     |         |        |        |
+| Frontend Redesign |    x     |         |        |        |
 | Password Reset |     x    |         |        |       |
 | UI-Fixes, Impressum, Logging |     x    |         |        |       |
  
