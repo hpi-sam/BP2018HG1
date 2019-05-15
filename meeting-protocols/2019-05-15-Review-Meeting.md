@@ -21,8 +21,8 @@
 
 3. What else?  
 
- - think about evaluation early on
- - summarize your thesis in one sentence before giving you status update
- - had the rethoric seminar, Luise & Erik will most likely present
+     - think about evaluation early on
+     - summarize your thesis in one sentence before giving you status update
+     - had the rethoric seminar, Luise & Erik will most likely present
 
 
