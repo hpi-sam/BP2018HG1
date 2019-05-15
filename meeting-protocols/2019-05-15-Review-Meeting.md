@@ -1,8 +1,8 @@
 ## Protocol
 
- ### 1. Introduction (Leo, 1min)  
+  1. Introduction (Leo, 1min)  
 
- ### 2. Status Updates on Bachelor Thesis  
+  2. Status Updates on Bachelor Thesis  
 
     Leo (Classifying Whiteboard Images)  
         - evaluated image data from system and D-School (not going to be enough)  
@@ -19,7 +19,7 @@
     
     Adrian (Textrecognition on Whiteboards)  
 
- ### 3. What else?  
+  3. What else?  
  
    - think about evaluation early on
    - summarize your thesis in one sentence before giving you status update
