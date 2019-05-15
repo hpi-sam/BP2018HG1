@@ -72,6 +72,6 @@
 ### May
 - 2019-05-02 [Review Meeting](meeting-protocols/2019-05-02-Review-Meeting.md)  
 ...  
-- 2019-05-08 [Review Meeting](meeting-protocols/2019-05-08-Review-Meeting.md)
+- 2019-05-08 [Review Meeting](meeting-protocols/2019-05-08-Review-Meeting.md)  
 ...  
 - 2019-05-15 [Review Meeting](meeting-protocols/2019-05-15-Review-Meeting.md)
