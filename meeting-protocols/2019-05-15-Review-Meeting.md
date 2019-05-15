@@ -16,6 +16,9 @@
     Erik (Recommendation System for Images)  
 
     Arne (Dialogflow Domain Specific Language)  
+     - Working Prototype
+     - Some tweaks still neccessary for consistent treatment of removing intents etc.
+     - Focus on Evaluation/Validation for now
 
     Adrian (Textrecognition on Whiteboards)  
 
