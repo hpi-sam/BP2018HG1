@@ -4,6 +4,7 @@ Bachelor Project Organization and Internals
 Welcome to the BP2018HG1 wiki!
 
 ### Development
+  - [Authentication](contribution/Authentication.md)
   - [Kubernetes Setup](contribution/Kubernetes-Setup.md)
   - [Git Workflow](contribution/Git-Workflow.md)
   - [Review Guide](contribution/reviews.md)
