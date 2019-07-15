@@ -1,9 +1,12 @@
 ## Risk Management
 
+### Current
+- [Risks](https://docs.google.com/spreadsheets/d/10Hq0PlHgt9TDTCfKp5URC-MzvrCG2Fjq34FqquAG_yY/edit?usp=sharing)
+- [Lessons learned](https://docs.google.com/spreadsheets/d/1DYY3ieQANmkvPjLiGQsVPToTqkzaP2CFPtISJE_SUPw/edit?usp=sharing)
 
 ### [Legend](_legend.pdf)
 
-### General Risk Assessments
+### Old Version
 
 - [Version 1: 10.02.2018](10_02_2018_risks_general.pdf)
 
