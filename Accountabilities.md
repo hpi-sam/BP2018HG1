@@ -117,9 +117,9 @@ Individual accountabilitites that should cover aspects of the project work that 
 		<td>25. Feb</td>
 		<td>1. Mar</td>
 		<td rowspan="7">Risk Management + Internal Evaluation (Lessons Learned)</td>
-		<td rowspan="7">LaTeX Master</td>
 		<td rowspan="7">Product Owner</td>
 		<td rowspan="7">User Experience + D-School User Testing</td>
+		<td rowspan="7">LaTeX Master</td>
 		<td rowspan="7">Development Process + Documentation (+ Non-technical Tasks and Punctuality)</td>
 		<td rowspan="7">PR Management</td>
 	</tr>
