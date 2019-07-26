@@ -16,7 +16,10 @@ Welcome to the BP2018HG1 wiki!
 ### Bachelor Thesis
   - [Process](thesis/thesis-process.md)
   - [Ideas](thesis/ideas.md)
-  
+
+### User Testing
+  - [User Testing](contribution/UserTestingEval.md)
+
 ### Process Management
   - [Development Process](process/process-overview.md)
   - [Accountabilities](Accountabilities.md)
