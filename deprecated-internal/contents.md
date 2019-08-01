@@ -1,0 +1,16 @@
+### Process Management [deprecated]
+  - [Development Process](process/process-overview.md)
+  - [Theses Process](thesis/thesis-process.md)
+  - [Accountabilities](Accountabilities.md)
+  - [Risk Management](risk_management/index.md)
+  - [Expenses](deprecated-internal/expenses.md)  
+
+  - [Meeting Protocols](Meeting-Protocols.md)  
+    - [September](Meeting-Protocols.md#september)  
+    - [November](Meeting-Protocols.md#november)  
+    - [December](Meeting-Protocols.md#december)
+    - [January](Meeting-Protocols.md#january)
+    - [February](Meeting-Protocols.md#february)
+    - [March](Meeting-Protocols.md#march)  
+    - [April](Meeting-Protocols.md#april)
+    - [May](Meeting-Protocols.md#may)
