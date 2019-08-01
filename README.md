@@ -24,7 +24,7 @@ Welcome to the BP2018HG1 wiki!
   - [Development Process](process/process-overview.md)
   - [Accountabilities](Accountabilities.md)
   - [Risk Management](risk_management/index.md)
-  - [Expenses](contribution/expenses.md)  
+  - [Expenses](deprecated-internal/expenses.md)  
 
   - [Meeting Protocols](Meeting-Protocols.md)  
     - [September](Meeting-Protocols.md#september)  
