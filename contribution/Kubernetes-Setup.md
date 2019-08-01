@@ -9,7 +9,12 @@ Example command: `sudo autossh -M 20008 -f -N -o "ServerAliveInterval 30" -o "Se
 
 ### When server went down:
 1. Enter `sudo wpa_cli` and enter `scan` to reconnect to network. Then enter `q` to escape the CLI.  
- You might have to restart wpa_supplicant with `wpa_supplicant -c /etc/wpa_supplicant.conf -D wired -i eno1`  
-2. Afterwards redeploy kubespray with: `ansible-playbook -i inventory/mycluster/hosts.ini --become --become-user=root cluster.yml  --extra-vars='ansible_become_pass=our Password here´
+ You might have to restart wpa_supplicant with `wpa_supplicant -c /etc/wpa_supplicant.conf -D wired -i eno1` add option `-B` for background running.
+2. Afterwards redeploy kubespray with: 
+```
+ansible-playbook -i inventory/mycluster/hosts.ini --become --become-user=root cluster.yml  --extra-vars='ansible_become_pass=our Password here
+```
 3. Reopen all the ports listed above
 4. If you are having problems with creating the autossh tunnels: list all open autossh connections: `ps aux | grep ssh` and kill everything that has autossh in its name or otherwise connects to our forwarding server IP with `sudo kill -9 PROCESS_ID`
+5. You will have to reconfigure the Neo4J IP Adress in elijas env configuration in /deployments/elija. You can get the correct adress with `kubectl describe svc neo4j` it is one of the adresses listed under endpoints.
+5. Restart the proxy for kubernetes with `kubectl proxy --port=8080 --address=172.22.15.254 --accept-hosts='^.*' &`
