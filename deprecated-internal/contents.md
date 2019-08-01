@@ -3,7 +3,7 @@
   - [Theses Process](thesis-process.md)
   - [Accountabilities](Accountabilities.md)
   - [Risk Management](risk_management/index.md)
-  - [Expenses](deprecated-internal/expenses.md)  
+  - [Expenses](expenses.md)  
 
   - [Meeting Protocols](Meeting-Protocols.md)  
     - [September](Meeting-Protocols.md#september)  
