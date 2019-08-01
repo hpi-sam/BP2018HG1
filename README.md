@@ -15,6 +15,7 @@ Welcome to the BP2018HG1 wiki!
   
 ### Bachelor Thesis
   - [Ideas](thesis/ideas.md)
+  - [Codebases](thesis/codebases.md)
 
 ### User Testing
   - [User Testing](contribution/UserTestingEval.md)
