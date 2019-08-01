@@ -1,5 +1,4 @@
 # BP2018HG1
-Bachelor Project Organization and Internals
 
 Welcome to the BP2018HG1 wiki!
 
