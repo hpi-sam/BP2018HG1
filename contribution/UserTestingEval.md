@@ -2,7 +2,7 @@
 
 ## Basic Track Feedback
 
-![Basic Track Feedback](unpacking-user-feedback.jpg)
+![Basic Track Feedback](../images/unpacking-user-feedback.jpg)
 
 
 ## Fast Track Booklets
