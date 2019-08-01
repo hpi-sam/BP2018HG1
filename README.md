@@ -12,7 +12,7 @@ This repo is part of the "Ask your Repository" Bachelor project containing the f
 ### Development
   - [Authentication](contribution/Authentication.md)
   - [Kubernetes Setup](contribution/Kubernetes-Setup.md)
-  - [Git Workflow](contribution/Git-Workflow.md)
+  - [Developer (git) Workflow](contribution/Git-Workflow.md)
   - [Review Guide](contribution/reviews.md)
   - [Codestyle](contribution/linting.md)  
   - [ZenHub Board](https://app.zenhub.com/workspaces/christian-ity-5c6c00094c2d6a432f785fcf/)
