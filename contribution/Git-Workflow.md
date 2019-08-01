@@ -1,9 +1,9 @@
-### 1. Branches  
+### 1. Open a new branch  
 - For a new Feature, use a new Branch: `git checkout -b <issuenumber>/description-here`  
 - Example: `git checkout -b 3/add-readme`.
 
 
-### 2. Commits  
+### 2. Add commits  
 - **small/'atomic' commits**
 - commit messages 
   - should complete the sentence: **"When applied this commit will..."**,  
@@ -20,7 +20,7 @@ Multiline example:
     - Add fancy dashboard about user actions:
     - Displays status messages, follows and eaten cookies
     ```
-### 3. Pull Requests  
+### 3. Open a Pull Requests  
 - Open a PR on github and add reviewers
 
 ### 4. Add more commits  
