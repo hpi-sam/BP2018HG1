@@ -1,6 +1,6 @@
 ### Process Management [deprecated]
   - [Development Process](process/process-overview.md)
-  - [Theses Process](thesis/thesis-process.md)
+  - [Theses Process](thesis-process.md)
   - [Accountabilities](Accountabilities.md)
   - [Risk Management](risk_management/index.md)
   - [Expenses](deprecated-internal/expenses.md)  
