@@ -14,13 +14,13 @@ Welcome to the BP2018HG1 wiki!
   - [Blog](contribution/blog.md)
   
 ### Bachelor Thesis
-  - [Process](thesis/thesis-process.md)
+  - [Process](thesis/thesis-process.md) [deprecated]
   - [Ideas](thesis/ideas.md)
 
 ### User Testing
   - [User Testing](contribution/UserTestingEval.md)
 
-### Process Management
+### Process Management [deprecated]
   - [Development Process](process/process-overview.md)
   - [Accountabilities](Accountabilities.md)
   - [Risk Management](risk_management/index.md)
