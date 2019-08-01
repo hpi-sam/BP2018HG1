@@ -25,3 +25,7 @@ This repo is part of the "Ask your Repository" Bachelor project containing the f
 
 ### User Testing
   - [User Testing](contribution/UserTestingEval.md)
+
+
+## License
+This project is licensed under the terms of the MIT license.
