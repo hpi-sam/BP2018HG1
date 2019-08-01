@@ -17,7 +17,6 @@ This repo is part of the "Ask your Repository" Bachelor project containing the f
   - [Codestyle](contribution/linting.md)  
   - [ZenHub Board](https://app.zenhub.com/workspaces/christian-ity-5c6c00094c2d6a432f785fcf/)
   - [Definition of Done](dod.md)  
-  - [Blog](contribution/blog.md)
   
 ### Bachelor Thesis
   - [Ideas](thesis/ideas.md)
