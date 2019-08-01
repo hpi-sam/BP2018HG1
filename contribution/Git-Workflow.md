@@ -1,3 +1,5 @@
+# Developer (git) Workflow
+
 ### 1. Open a new branch  
 - For a new Feature, use a new Branch: `git checkout -b <issuenumber>/description-here`  
 - Example: `git checkout -b 3/add-readme`.
